@@ -1,0 +1,18 @@
+.active {
+    color:aqua;
+}
+
+a:hover {
+   color:purple;
+   transition: .5s;
+}
+
+.profile-photo {
+    border-radius:50%;
+}
+
+.skills {
+    align-items: center;
+    justify-content: center;
+}
+
